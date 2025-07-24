@@ -4,11 +4,12 @@
 I'm an aspiring developer starting my journey in software development. I'm passionate about technology and excited to build projects that solve real-world problems.
 
 ### 🌱 Currently Learning
-- Jave
+- Java
 - Spring-boot
 - DSA
+- React
 
-### 🎯 Goals for 2024
+### 🎯 Goals for 2025
 - Build a strong foundation in programming
 - Contribute to open-source projects
 - Expand my knowledge in software development
@@ -23,6 +24,7 @@ I'm an aspiring developer starting my journey in software development. I'm passi
 - Java
 - DSA
 - Spring-Boot
+- React-js
 
 ### 📫 How to Reach Me
 - shubhamgarg6178@gmail.com
