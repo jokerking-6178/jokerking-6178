@@ -3,13 +3,13 @@
 </div>
 
 <div align="center">
-  <a href="[https://linkedin.com/in/shubham-garg-60a760289](https://www.linkedin.com/in/shubham-garg-60a760289/)">
+  <a href="https://www.linkedin.com/in/shubham-garg-60a760289/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:shubhamgarg6178@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://github.com/ShubhamGarg_6178">
+  <a href="https://github.com/jokerking-6178">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
   <img src="https://komarev.com/ghpvc/?username=jokerking-6178&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS"/>
@@ -67,8 +67,8 @@ public class ShubhamGarg {
         </a>
         <br/><br/>
         <p>
-          Full-stack cloud storage platform — JWT auth, OAuth2.0, AWS S3, 
-          expiring share links, Razorpay payments, and an 
+          Full-stack cloud storage platform — JWT auth, OAuth2.0, AWS S3,
+          expiring share links, Razorpay payments, and an
           <strong>AI document chat using RAG + Ollama LLMs + pgvector</strong>
         </p>
         <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white"/>
@@ -81,13 +81,13 @@ public class ShubhamGarg {
     <td width="50%">
       <h3 align="center">🛒 POS Retail Billing</h3>
       <div align="center">
-        <a href="https://github.com/jokerking-6178">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=jokerking-6178&repo=POS-Billing&theme=tokyonight&hide_border=true"/>
+        <a href="https://github.com/jokerking-6178/Retail-POS">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=jokerking-6178&repo=POS-RetailBilling&theme=tokyonight&hide_border=true"/>
         </a>
         <br/><br/>
         <p>
-          Complete point-of-sale system with inventory management, 
-          cart & billing, Razorpay payments, AWS S3 image storage, 
+          Complete point-of-sale system with inventory management,
+          cart & billing, Razorpay payments, AWS S3 image storage,
           and dashboard analytics
         </p>
         <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white"/>
@@ -145,8 +145,8 @@ public class ShubhamGarg {
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=jokerking-6178&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=jokerking-6178&theme=tokyonight&hide_border=true"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=jokerking-6178&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+  <img width="49%" src="https://streak-stats.demolab.com?user=jokerking-6178&theme=tokyonight&hide_border=true"/>
 </div>
 
 <div align="center">
