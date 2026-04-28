@@ -82,7 +82,7 @@ public class ShubhamGarg {
       <h3 align="center">🛒 POS Retail Billing</h3>
       <div align="center">
         <a href="https://github.com/jokerking-6178/Retail-POS">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=jokerking-6178&repo=POS-RetailBilling&theme=tokyonight&hide_border=true"/>
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=jokerking-6178&repo=Retail-POS&theme=tokyonight&hide_border=true"/>
         </a>
         <br/><br/>
         <p>
